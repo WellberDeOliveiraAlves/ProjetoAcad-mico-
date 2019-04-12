@@ -1,3 +1,2 @@
-# ProjetoAcad-mico-
-Projeto Escolares
-Ifsp Hto 
+# ProjetoAcademico
+Projeto Escolar
